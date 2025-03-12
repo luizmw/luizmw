@@ -1,8 +1,6 @@
 ### Olá, me chamo Luiz 👋
-- 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas em [IFSUL](https://www.ifsul.edu.br/).
-- 👨‍💻 Bolsista em **Bioinformática** na [Fudação de Amparo a Pesquisa do Estado do Rio Grande do Sul](https://fapergs.rs.gov.br/inicial).
-- 🏃 Fascinado por novos desafios e aprendizagens
-
+Sou graduado em Análise e Desenvolvimento de Sistemas, pelo Instituto Federal Sul-Rio-Grandense - [IFSUL](https://www.ifsul.edu.br/), desde 2024. Atualmente estou cursando Agrocomputação, e também participo projeto Oracle ONE, uma iniciativa Oracle em parceria com a escola de tecnologia Alura, onde estou estudando para aprimorar e ampliar conhecimentos em tecnologia da informação e assim estar por dentro do mercado de trabalho.
+Sou fascinado por novos desafios e aprendizagens.
 
 
 #### Você também me encontra em:
